@@ -1,7 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Computer Vision, NLP, Deep Learning
-🌱 I’m currently learning: Agentic AI, AGI, Statistical Modelling
-💬 Ask me about: DSA, Deep Learning, Machine Learning
+🔭 I’m currently working on: Computer Vision, NLP, Deep Learning  
+
+🌱 I’m currently learning: Agentic AI, AGI, Statistical Modelling  
+
+💬 Ask me about: DSA, Deep Learning, Machine Learning  
+
 ⚡ Fun fact: Nothing fun
 
 
